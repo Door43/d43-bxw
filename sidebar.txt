@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxw:home|Door43 (bxw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxw|d43-bxw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxw/archive/master.zip|d43-bxw.zip]]
+
+**Recent Changes**
+{{changes>ns = bxw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxw|Ethnologue data]]
+
